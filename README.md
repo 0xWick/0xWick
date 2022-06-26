@@ -4,7 +4,7 @@ Hi 👋 My name is Wick (pseudonym ofc)
 Programmer & Enterpreneur
 -------------------------
 
-Python programmer jumped into front-end then Blockchain and Currently learning and working as a Smart Contract Dev (web3 developer). Aiming for Full-stack Development in some months ;)
+Python programmer jumped into front-end then Blockchain and Currently learning and working as a Smart Contract Dev (web3 developer). Working on my full stack!
 
 * 🌍  I'm based in Pakistan, Lahore
 * ✉️  You can contact me at [wickprof@gmail.com](mailto:wickprof@gmail.com)
