@@ -1,4 +1,4 @@
-Hi 👋 My name is Wick (pseudonym ofc)
+Hi 👋 My name is Wick (pseudonym)
 =====================================
 
 Programmer & Enterpreneur
@@ -24,6 +24,8 @@ Python programmer jumped into front-end then Blockchain and Currently learning a
 <a href="https://www.twitter.com/0x_Wick" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/0x_Wick?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Wick.py.png" alt="Your Image Badge" />
 
 ### Skills
 
